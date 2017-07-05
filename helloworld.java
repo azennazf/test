@@ -1,1 +1,1 @@
-Hello world! from branch B1 !
+Hello world! from b1 + with some conflict !!!
