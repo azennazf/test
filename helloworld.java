@@ -1,1 +1,1 @@
-Hello world! from b1 + with some conflict !!!
+Hello world! from b1 + with some conflict !!! + spring
