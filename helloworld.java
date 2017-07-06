@@ -1,1 +1,1 @@
-hello (from spring2)
+Hello world! from b1 + with some conflict !!! + spring
